@@ -13,6 +13,7 @@
   },
   "jspm": {
     "dependencies": {
+      "jade": "github:johnsoftek/plugin-jade@^0.5.1",
       "jsonp": "npm:jsonp@^0.2.0",
       "less": "github:aaike/jspm-less-plugin@^0.0.5"
     },
