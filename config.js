@@ -9,8 +9,12 @@ System.config({
 
   map: {
     "jsonp": "npm:jsonp@0.2.0",
+    "less": "github:aaike/jspm-less-plugin@0.0.5",
     "traceur": "github:jmcriffey/bower-traceur@0.0.92",
     "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.92",
+    "github:aaike/jspm-less-plugin@0.0.5": {
+      "less.js": "github:distros/less@2.4.0"
+    },
     "github:jspm/nodelibs-assert@0.1.0": {
       "assert": "npm:assert@1.3.0"
     },
