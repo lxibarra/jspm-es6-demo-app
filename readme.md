@@ -19,7 +19,8 @@ Optionally lock down jspm for the project:
   ```
   
  For complete documentation go here https://github.com/jspm/jspm-cli
- ### 3. Run app:
+ 
+### 3.  Run app:
  
  For this simple demo you can use live-server. Its avaliable on npm
   ```
